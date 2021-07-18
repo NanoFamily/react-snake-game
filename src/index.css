@@ -60,11 +60,11 @@ body {
 }
 
 .snake {
-  background: white;
+  background: lightgreen;
 }
 
 .food {
-  background: pink;
+  background: lightcoral;
 }
 
 .navigation {
